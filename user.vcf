@@ -7,7 +7,7 @@ ORG:CyberXpert;
 TITLE:Chief Executive Officer (CEO)
 EMAIL;type=INTERNET;type=WORK;type=pref:hjvr@cyberxpert.co.za
 TEL;type=WORK;type=VOICE:+27 8408 15160
-item1.ADR;type=WORK;type=pref:;;2 Spantou Street\Roodekrans,Roodepoort,1724
+item1.ADR;type=WORK;type=pref:;;2 Spantou Street,Roodekrans,Roodepoort,1724
 item1.X-ABADR:sg
 item2.URL;type=pref:cyberxpert.co.za
 item2.X-ABLabel:_$!<HomePage>!$_
