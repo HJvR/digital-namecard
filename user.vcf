@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Jansen van Rensburg;Hendrik;;;
-FN: Hendrik  Jansen van Rensburg
+FN: Hendrik Jansen van Rensburg
 ORG:CyberXpert;
 TITLE:Chief Executive Officer (CEO)
 EMAIL;type=INTERNET;type=WORK;type=pref:hjvr@cyberxpert.co.za
 TEL;type=WORK;type=VOICE:+27 8408 15160
-item1.ADR;type=WORK;type=pref:;;2 Spantou Street\nRoodekrans\nRoodepoort,1724
+item1.ADR;type=WORK;type=pref:;;2 Spantou Street\nRoodekrans\nRoodepoort\n1724
 item1.X-ABADR:sg
 item2.URL;type=pref:cyberxpert.co.za
 item2.X-ABLabel:_$!<HomePage>!$_
